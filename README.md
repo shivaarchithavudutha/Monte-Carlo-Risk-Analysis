@@ -1,4 +1,5 @@
 # Monte-Carlo-Risk-Analysis
+![Monte Carlo Results](simulation_results.png)
 Simulating asset price paths using Geometric Brownian Motion (GBM) to calculate Value at Risk (VaR)
 # Monte Carlo Simulation for Financial Risk Analysis
 
